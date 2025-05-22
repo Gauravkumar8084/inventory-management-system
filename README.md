@@ -53,7 +53,7 @@ These instructions will help you set up the Inventory Management System on your 
 
 ### Clone the Project
 
-```bash
+## bash
 git clone https://github.com/manas284/Inventory-management-System.git
 cd Inventory-management-System
 Configure Environment
