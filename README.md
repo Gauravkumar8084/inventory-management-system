@@ -58,8 +58,8 @@ These instructions will help you set up the Inventory Management System on your 
 ### Clone Project
 
 ```bash
-git clone https://github.com/your-username/inventory-management-go.git
-cd inventory-management-go
+git clone https://github.com/manas284/Inventory-management-System.git
+cd Inventory-management-System
 ```
 
 ### Configure Environment
