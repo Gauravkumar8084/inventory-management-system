@@ -28,7 +28,7 @@ A simple Inventory Management System built using Go (backend), MySQL (database),
 * [API Endpoints](#api-endpoints)
 * [Deployment](#deployment)
 * [Authors](#authors)
-* [Sample Demo - Video Link](#sample-demo---video-link)
+* [Postman Collection](#Postman Collection)
 
 ---
 
@@ -123,6 +123,22 @@ Use the following tools:
 ### Inventory
 
 * `GET /api/inventory` – View current stock levels
+
+---
+
+## 🧪 Postman Collection
+
+You can test the API using the provided Postman collection:  
+👉 [Inventory Management System API.postman_collection.json](./Inventory%20Management%20System%20API.postman_collection.json)
+
+### Includes:
+- ✅ Create Product
+- ✅ Create Sales Order (auto stock decrease)
+- ✅ Create Purchase Order (auto stock increase)
+- ✅ Get Inventory
+- ✅ Get/Delete/Update Product
+
+> Import this `.json` file into Postman and run requests directly.
 
 ---
 
