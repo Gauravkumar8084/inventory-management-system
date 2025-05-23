@@ -1,4 +1,4 @@
-# Inventory Management System - WebApp
+# Inventory Management System 
 
 A simple Inventory Management System built using Go (backend), MySQL (database), and GORM (ORM). The system allows full CRUD operations on products, purchase orders, sales orders, and real-time inventory updates.
 
@@ -28,7 +28,6 @@ A simple Inventory Management System built using Go (backend), MySQL (database),
 * [API Endpoints](#api-endpoints)
 * [Deployment](#deployment)
 * [Authors](#authors)
-* [Postman Collection](#Postman Collection)
 
 ---
 
