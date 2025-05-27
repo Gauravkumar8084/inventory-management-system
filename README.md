@@ -57,8 +57,8 @@ These instructions will help you set up the Inventory Management System on your 
 ### Clone Project
 
 ```bash
-git clone https://github.com/manas284/Inventory-management-System.git
-cd Inventory-management-System
+git clone https://github.com/Gauravkumar8084/inventory-management-system.git
+cd inventory-management-system
 ```
 
 ### Configure Environment
@@ -125,20 +125,6 @@ Use the following tools:
 
 ---
 
-## 🧪 Postman Collection
-
-You can test the API using the provided Postman collection:  
-👉 [Inventory Management System API.postman_collection.json](./Inventory%20Management%20System%20API.postman_collection.json)
-
-### Includes:
-- ✅ Create Product
-- ✅ Create Sales Order (auto stock decrease)
-- ✅ Create Purchase Order (auto stock increase)
-- ✅ Get Inventory
-- ✅ Get/Delete/Update Product
-
-> Import this `.json` file into Postman and run requests directly.
-
 ---
 
 ## Deployment
@@ -152,6 +138,5 @@ This project is currently set up for local development. Deployment can be done t
 
 ## Authors
 
-Manas Tiwari
-GitHub: https://github.com/manas284
+Gaurav Kumar
 
